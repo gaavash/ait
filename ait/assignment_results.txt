@@ -1,0 +1,19 @@
+LAB 6 ASSIGNMENT RESULTS
+==============================
+
+FINAL LOSS: 0.6144
+
+PREDICTIONS:
+Image#	True	Predicted
+1	    0	    0
+2	    1	    8
+3	    2	    2
+4	    3	    3
+5	    4	    6
+6	    5	    8
+7	    6	    0
+8	    7   	8
+9	    8	    2
+10	    9	    8
+
+Custom Accuracy: 3/10
